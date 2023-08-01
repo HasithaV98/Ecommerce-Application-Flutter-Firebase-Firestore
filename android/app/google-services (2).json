@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "690673968314",
+    "project_id": "supplement-ordering-app",
+    "storage_bucket": "supplement-ordering-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:690673968314:android:9d21654528ccd8195b4e83",
+        "android_client_info": {
+          "package_name": "com.example.suppliment_ordering_application"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "690673968314-t8lohnp8rrm9ufs2ir0f822re6rh7t5n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAL73FYcQYRZ9xCEYaTPDrif7wex1-UDpU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "690673968314-t8lohnp8rrm9ufs2ir0f822re6rh7t5n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
